@@ -1,3 +1,3 @@
-# un-apple-keyboard 0.2-1
+# un-apple-keyboard 0.2-1 by @tavianator
 
-Cloned from: https://aur.archlinux.org/packages/un-apple-keyboard
+Cloned from: https://aur.archlinux.org/un-apple-keyboard.git
