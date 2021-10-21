@@ -18,7 +18,7 @@ From the [keyfuzz help page](http://0pointer.de/lennart/projects/keyfuzz/):
 
 The first 3 aforementioned features are brought to you using the default linux kernel module `apple_hid`.
 
-The last one is provided by providing a mapping to  ̀keyfuzz`.
+The last one is provided by providing a mapping to `keyfuzz`.
 
 ## Name
 

@@ -1,6 +1,10 @@
+### keyfuzz file for Apple Aluminium Keyboard
+
 # Map F13 to SYSRQ
-458856 99
+0x70068 KEY_SYSRQ
+
 # Map F14 to Scroll Lock
-458857 70
+0x70069 KEY_SCROLLLOCK
+
 # Map F15 to Pause
-458858 119
+0x7006A KEY_PAUSE
